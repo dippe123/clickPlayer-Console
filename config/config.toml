@@ -1,0 +1,9 @@
+[clicker]
+keybind = "x"
+inventory = true
+
+[shake]
+enabled = false
+chance = 100
+X = 7
+Y = 5
